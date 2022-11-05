@@ -1,7 +1,5 @@
 # Python-Ransomware 
 
--everything exept server.py made by me
-
 To test the Ransomware out on your machine,
 
 * edit lines 49 and 140 in the RansomWare.py file with your own absolute paths etc for testing purposes and so you can use the localRoot folder
@@ -17,7 +15,7 @@ To test the Ransomware out on your machine,
 * Python 3.7 - https://www.python.org/
 
 #### Disclaimer
-
+>I did not make server.py that was by somone else, the rest of the code is mine
 > This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
 > illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
 > liability and are not responsible for any misuse or damage caused by this tool and software in general.
