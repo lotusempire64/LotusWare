@@ -1,5 +1,6 @@
 # Python-Ransomware 
-#everything exept server made by me
+
+-everything exept server.py made by me
 
 To test the Ransomware out on your machine,
 
