@@ -1,8 +1,9 @@
-# Python-Ransomware
+# Python-Ransomware 
+#everything exept server made by me
 
 To test the Ransomware out on your machine,
 
-* edit lines 49 and 140 in the ransomware.py file with your own absolute paths etc for testing purposes and so you can use the localRoot folder
+* edit lines 49 and 140 in the RansomWare.py file with your own absolute paths etc for testing purposes and so you can use the localRoot folder
 
 * [ATTACKER] Run the RSA script to generate two keys, a private and public key
 
